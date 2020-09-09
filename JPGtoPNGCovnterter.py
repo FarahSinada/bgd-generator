@@ -8,7 +8,7 @@ new_folder = sys.argv[2]
 
 # check if new/ exists, if not, create it
 # new change
-
+new = []
 # loop through pokedex,
 # convert to png
 # save to the new folder
